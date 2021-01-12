@@ -71,7 +71,7 @@ while True:
             mas.remove(['x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x'])
             lines -= 1
         if mas == []:
-            input('Вы выиграли, зачеркнув все цифры! Разработчик: vav-v\nВКонтакте: vk.com/vav_v')
+            input('Вы выиграли, зачеркнув все цифры! Разработчик: vav-v\nВКонтакте: vk.com/vav_v\nМоя страничка GitHub: github.com/vav-v')
             sys.exit()
     except:
         print('Неверно введены данные!')
